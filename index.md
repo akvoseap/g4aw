@@ -1,12 +1,11 @@
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
+<style type='text/css'>
 .tab-content {
     display: none;
 }
 .tab-content:target {
     display: block;
 }
-</style>")
+</style>
 
 <ul id="menu">
     <li><a href="#tab1">WASH Futures</a></li>
